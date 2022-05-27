@@ -32,4 +32,10 @@ This process of "conditionally" rendering something based on user action is a co
 * clicking an "expand" icon to show additional details or instructions
 * seeing button text change from 'create' to 'edit' once you've created some sort of entity
 
+## Step 4 - Track how many times we've clicked
+
+Now let's update our logic to also track how many times the button has been clicked. Try to figure out a way to store how many times the button has been clicked and increment the count on each click.
+
+Once you've done that, let's add another `<p>` tag that indicates how many times we've clicked. It should say something along the lines of `The button has been clicked <insert our count here> times`.
+
 More steps to come!
