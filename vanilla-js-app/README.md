@@ -31,3 +31,5 @@ This process of "conditionally" rendering something based on user action is a co
 * showing a modal or popup when you click on a button to confirm your user action
 * clicking an "expand" icon to show additional details or instructions
 * seeing button text change from 'create' to 'edit' once you've created some sort of entity
+
+More steps to come!
